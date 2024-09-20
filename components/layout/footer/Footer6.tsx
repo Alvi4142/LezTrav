@@ -12,7 +12,7 @@ export default function Footer6() {
 											experience.</p>
 									</div>
 									<div className="box-need-help">
-										<p className="need-help text-md-medium mb-5">Need help? Call us</p><br /><a className="heading-6 phone-support" href="tel:1-800-222-8888">1-800-222-8888</a>
+										<p className="need-help text-md-medium mb-5">Need help? Call us</p><br /><a className="heading-6 phone-support" href="tel:+1 (778) 809 - 5074">+1 (778) 809 - 5074</a>
 									</div>
 								</div>
 							</div>

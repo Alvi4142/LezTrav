@@ -15,10 +15,7 @@ export default function Header1({ scroll, handleLogin, handleMobileMenu, handleR
 					<div className="container-fluid">
 						<div className="text-header">
 							<div className="text-unlock text-sm-bold">Unlock the Magic of Travel with Lenz Trav - Your Gateway to
-								Extraordinary Experiences</div><Link className="link-secondary-2" href="#">Get This Now
-								<svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" >
-									<path d="M7.99992 12.6666L12.6666 7.99992L7.99992 3.33325M12.6666 7.99992L3.33325 7.99992" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-								</svg></Link>
+								Extraordinary Experiences</div>
 						</div>
 					</div>
 				</div>

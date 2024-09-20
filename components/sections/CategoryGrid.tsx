@@ -47,7 +47,7 @@ export default function CategoryGrid() {
                                                 <path d="M8 15L15 8L8 1M15 8L1 8" stroke="" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" fill="none" />
                                             </svg></Link>
                                         <div className="phone-activity">
-                                            <p className="text-sm-bold">1-800-222-8888</p>
+                                            <p className="text-sm-bold">+1 (778) 809 - 5074</p>
                                         </div>
                                     </div>
                                 </div>

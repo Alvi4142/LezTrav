@@ -55,7 +55,7 @@ export default function Footer4() {
                         <div className="footer-col-1">
                             <div className="box-footer-help"><img alt="Lenz Trav" src="/assets/imgs/page/homepage6/help.svg" />
                                 <div className="box-info-support">
-                                    <p className="text-md-medium mb-5">Need help? Call us</p><Link className="heading-6 phone-support" href="/tel:1-800-222-8888">1-800-222-8888</Link>
+                                    <p className="text-md-medium mb-5">Need help? Call us</p><Link className="heading-6 phone-support" href="/tel:+1 (778) 809 - 5074">+1 (778) 809 - 5074</Link>
                                 </div>
                             </div>
                         </div>

@@ -65,7 +65,7 @@ export default function Footer2() {
                         </div>
                         <div className="col-md-4 mb-30">
                             <div className="box-need-help">
-                                <p className="need-help neutral-1000 text-lg-bold mb-5">Need help? Call us</p><br /><Link className="heading-6 phone-support" href="/tel:1-800-222-8888">1-800-222-8888</Link>
+                                <p className="need-help neutral-1000 text-lg-bold mb-5">Need help? Call us</p><br /><Link className="heading-6 phone-support" href="/tel:+1 (778) 809 - 5074">+1 (778) 809 - 5074</Link>
                             </div>
                         </div>
                         <div className="col-md-4 mb-30">
