@@ -1400,7 +1400,7 @@ h6,
 }
 
 .neutral-400 {
-  color: var(--bs-neutral-400) !important;
+  color: #ffffff !important;
 }
 
 .neutral-500 {
@@ -2236,7 +2236,7 @@ body {
   font-size: 16px;
   line-height: 26px;
   font-weight: 700;
-  background-color: #75ccff;
+  background-color: #0d89d1;
   border-radius: 50px;
   color: var(--bs-color-1000) !important;
   display: flex;
@@ -6910,7 +6910,7 @@ label {
   padding: 40px 0px 0px 0px;
 }
 .footer .phone-support {
-  color: var(--bs-warning);
+  color: #ffffff;
 }
 .footer h6 {
   color: var(--bs-color-white);
